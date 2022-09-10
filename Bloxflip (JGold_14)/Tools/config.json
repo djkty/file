@@ -1,0 +1,8 @@
+{
+	"minimum_amount": 0,
+	"auto_join": true,
+	"webhook_enabled": true,
+	"webhook": "https://discordapp.com/api/webhooks/1013558360760651866/KsmeGlr86BUwQqUuDyVF4aCtqJYwPp7YMORq_9aAKzi3jhqVe7M-CbMU2U0coH-V0gYT",
+	"webhook_ping": "<@928247948595331113>",
+	"notifications_enabled": true
+}

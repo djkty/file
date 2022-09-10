@@ -1,0 +1,59 @@
+ERROR:root:A error has occured at 00:51:52 12
+Traceback (most recent call last):
+  File "E:\Bloxflip (thwartedbrute)\Tools\AutoRain.py", line 20, in __init__
+    self.JoinRains()
+  File "E:\Bloxflip (thwartedbrute)\Tools\AutoRain.py", line 225, in JoinRains
+    prize = (format(int(grabprize),","))
+ValueError: invalid literal for int() with base 10: '893.'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
